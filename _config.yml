@@ -3,7 +3,7 @@ remote_theme: "mmistakes/so-simple-theme"
 locale: it-It
 title: "Radio Moguri"
 description: "Italian Gaming Web Radio! Semi di kupò sempre graditi ❤"
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "Mog_21.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
