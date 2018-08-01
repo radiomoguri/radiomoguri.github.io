@@ -80,12 +80,15 @@ defaults:
 
 # Footer Links
 footer_links:
-  - title: Instagram
-    url: https://instagram.com/radiomoguri
-    icon: fab fa-instagram
   - title: Facebook
     url: https://facebook.com/radiomoguri
     icon: fab fa-facebook
+  - title: Instagram
+    url: https://instagram.com/radiomoguri
+    icon: fab fa-instagram
+  - title: Steam
+    url: https://steamcommunity.com/groups/radiomoguri
+    icon: fab fa-steam
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
