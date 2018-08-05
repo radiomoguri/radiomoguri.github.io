@@ -83,6 +83,9 @@ footer_links:
   - title: Facebook
     url: https://facebook.com/radiomoguri
     icon: fab fa-facebook
+  - title: Youtube
+    url: https://www.youtube.com/channel/UCUGqWnf2rMqxVc_toRoXjRg
+    icon: fab fa-youtube    
   - title: Instagram
     url: https://instagram.com/radiomoguri
     icon: fab fa-instagram
