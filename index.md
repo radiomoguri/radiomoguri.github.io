@@ -4,8 +4,7 @@ Ogni sabato una puntata del podcast, poi retrogame e Giappone, nostalgia ma non 
 
 Analisi videoludica di un certo livello. Sotterraneo. Ma pulito. E un po' peloso.
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OrO1WUqL1Q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OrO1WUqL1Q4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Cento di questi pixel
 
