@@ -92,7 +92,7 @@ footer_links:
   - title: Steam
     url: https://steamcommunity.com/groups/radiomoguri
     icon: fab fa-steam
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Twitter
+    url: https://twitter.com/radiomoguri
+    icon: fas fa-twitter
 
