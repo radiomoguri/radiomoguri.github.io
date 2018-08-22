@@ -1,6 +1,6 @@
 ---
 layout: page
-path: "/crew/"
+permalink: /crew/
 excerpt: "Il team dietro a Radio Moguri"
 show_excerpts: true
 paginate: true
