@@ -1,3 +1,11 @@
+---
+layout: home
+excerpt: "Ogni sabato una puntata del podcast, poi retrogame e Giappone, nostalgia ma non solo, Semi di Kupò a raffica con un occhio al futuro e l'altro al panino con la mortazza della porta sud!"
+show_excerpts: true
+paginate: true
+entries_layout: list
+---
+
 # Kupò!
 
 <center>
@@ -5,8 +13,6 @@
 </center>
 
 ## In breve
-
-Ogni sabato una puntata del podcast, poi retrogame e Giappone, nostalgia ma non solo, Semi di Kupò a raffica con un occhio al futuro e l'altro al panino con la mortazza della porta sud!
 
 Analisi videoludica di un certo livello. Sotterraneo. Ma pulito. E un po' peloso.
 
