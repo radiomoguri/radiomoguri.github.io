@@ -1,5 +1,5 @@
 ---
-title: Puntate
+title: Trasmissioni
 layout: page
 permalink: /trasmissioni/
 taxonomy: markup
