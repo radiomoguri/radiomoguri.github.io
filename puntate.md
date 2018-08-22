@@ -5,4 +5,8 @@ permalink: /puntate/
 taxonomy: markup
 ---
 
-## [Il Sabato di Radio Moguri](https://www.facebook.com/radiomoguri/playlist/659609907724722)
+Tutte le nostre trasmissioni
+
+## - [Il Sabato di Radio Moguri](https://www.facebook.com/radiomoguri/playlist/659609907724722)
+
+L'approfondimento settimanale: brevi riflessioni e notizie sul Videogame come fenomeno socio-culturale, sondaggi, e occasionali deliri
