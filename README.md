@@ -6,6 +6,8 @@ permalink: /about/
 
 ![garnet](https://78.media.tumblr.com/tumblr_m8ohi7SHCb1r8sq0so1_500.gif)
 
+<center>[Crew]({{ site.baseurl }}/autori/)</center>
+
 Tra retrogame e nostalgia, semi di Kupò a raffica con un occhio al futuro e l'altro al panino con la mortazza della porta sud.
 
 ## Cos’è Radio Moguri? DOVE MI TROVO, AIUTATEMI!
@@ -22,11 +24,17 @@ In senso tecnico, Radio Moguri potrebbe sembrare la solita pagina facebook che p
 
 In senso fatato, è una stazione radiofonica fatta di pixel che comunica col mondo tridimensionale trasmettendo nel web.
 
-## Ok...E di che parla?
+## Ok...E di che tratta ?
+
+L'obbiettivo a lungo termine è fare da finestra e megafono alla scena della **Video Game Music**, dell'**indie game italiano** e del retrogame a tutti livelli.
+
+Più in generale...
 
 ![monkey-island](https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/39442543_529202020860202_6743140663795122176_n.png?_nc_cat=110&_nc_ht=scontent-mxp1-1.xx&oh=4cc90ac60d6e5e69fa7707d848014f44&oe=5C3F5E64)
 
-Videogiochi! specialmente quelli più stagionati o misconosciuti...con un evidente occhio di riguardo per Final Fantasy, si capisce.
+**Videogiochi!**
+
+Specialmente quelli più stagionati o misconosciuti...con un evidente occhio di riguardo per Final Fantasy, si capisce.
 
 ## Ma ATTENZIONE!
 
