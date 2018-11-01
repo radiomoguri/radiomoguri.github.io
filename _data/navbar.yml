@@ -1,0 +1,12 @@
+nav:
+
+- title: Trasmissioni
+  url: /trasmissioni/
+- title: Articoli
+  url: /articoli/
+- title: About
+  url: /about/
+- title: Autori
+  url: /autori/  
+- title: Contatti
+  url: https://m.me/{{ site.facebook }}

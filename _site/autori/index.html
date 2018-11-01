@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width", initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Autori - Radio Moguri</title>
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+
+</html>
+<body>
+  <div id="avvolgibotta">
+  <nav class="navbar navbar-expand-md navbar-light bg-transparent">
+  <div class="container">
+    <a class="navbar-brand" href="/">Radio Moguri</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        
+        <!--assegno il baseurl con "domain", escludendo i link esterni e a mailto-->
+        
+        <li class="nav-item">
+          <a class="nav-link" href="http://localhost:4000/trasmissioni/">Trasmissioni</a>
+        </li>
+        
+        <!--assegno il baseurl con "domain", escludendo i link esterni e a mailto-->
+        
+        <li class="nav-item">
+          <a class="nav-link" href="http://localhost:4000/articoli/">Articoli</a>
+        </li>
+        
+        <!--assegno il baseurl con "domain", escludendo i link esterni e a mailto-->
+        
+        <li class="nav-item">
+          <a class="nav-link" href="http://localhost:4000/about/">About</a>
+        </li>
+        
+        <!--assegno il baseurl con "domain", escludendo i link esterni e a mailto-->
+        
+        <li class="nav-item">
+          <a class="nav-link" href="http://localhost:4000/autori/">Autori</a>
+        </li>
+        
+        <!--assegno il baseurl con "domain", escludendo i link esterni e a mailto-->
+        
+        <li class="nav-item">
+          <a class="nav-link" href="https://m.me/{{ site.facebook }}">Contatti</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container">
+  <h1 class="text-primary text-center">Autori</h1>
+  <hr  />
+  <div class="card-deck">
+    
+    <div class="card bg-primary">
+      <h2 class="card-title text-center">Mog</h2>
+      <a href="/authors/mog"><img class="card-img-top autore-avatar-link" src="https://vignette.wikia.nocookie.net/finalfantasy/images/3/3a/Amano_Mog_alt.jpg/revision/latest/zoom-crop/width/240/height/240?cb=20120725013006/100px180/" alt="Mog"></a>
+      <div class="card-body">
+        <h5 class="card-title">Moguri</h5>
+        <p class="card-text">Kupò...kupò...KUPÒ?!</p>
+      </div>
+    </div>
+    
+    <div class="card bg-primary">
+      <h2 class="card-title text-center">Xab</h2>
+      <a href="/authors/xab"><img class="card-img-top autore-avatar-link" src="https://avatars0.githubusercontent.com/u/44308972?s=460&v=4/100px180/" alt="Xab"></a>
+      <div class="card-body">
+        <h5 class="card-title">Direttore</h5>
+        <p class="card-text">A (web) world citizen</p>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+  <footer class="py-4 footer">
+  <hr />
+  <div class="container text-center text-info">
+    <div class="row">
+      <div class="col">
+        
+          <div class="social-links">
+  <a target="_blank" href="https://facebook.com/radiomoguri">
+    <i class="fab fa-facebook fa-2x"></i>
+  </a>
+  <a target="_blank" href="https://instagram.com/radiomoguri">
+    <i class="fab fa-instagram fa-2x"></i>
+  </a>
+  <a target="_blank" href="https://twitter.com/radiomogurihub">
+    <i class="fab fa-twitter fa-2x"></i>
+  </a>
+</div>
+
+          
+<div class="fb-like" data-href="https://www.facebook.com/radiomoguri" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+
+        
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        Copyright Radio Moguri by Andrea Corinti &copy; 2018 | Powered by <a href="https://github.com/andreacorinti/narshe-mines">Narshe Mines</a>.
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        Tutti i marchi e contenuti riportati appartengono ai legittimi proprietari.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!--JS Facebook-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v3.1&appId=1091614741002995&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<!--JS-->
+
+<script src="/assets/js/lazysizes.min.js" async=""></script>
+
+<script defer src="https://use.fontawesome.com/releases/v5.4.1/js/all.js" integrity="sha384-L469/ELG4Bg9sDQbl0hvjMq8pOcqFgkSpwhwnslzvVVGpDjYJ6wJJyYjvG3u8XW7" crossorigin="anonymous"></script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  </div>
+</body>
+</html>

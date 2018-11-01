@@ -1,0 +1,18 @@
+<section id="banner" class="titolo-logo">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center contenitore-logo">
+        <!--logo-->
+        <img src="{{ site.logo | relative_url }}" class="site-logo-img" alt="{{ site.title }}">
+        <h1 class="titolo-logo">{{ site.title }}</h1>
+        <p class="site-description" itemprop="description">{{ site.description }}</p>
+        <!--/logo-->
+      </div>
+        {% include player.html %}
+    </div>
+  </div>
+
+</section>
+
+<!--Mobile-->
