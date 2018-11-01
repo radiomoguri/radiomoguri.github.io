@@ -6,7 +6,7 @@ permalink: /about/
 
 ![garnet](https://78.media.tumblr.com/tumblr_m8ohi7SHCb1r8sq0so1_500.gif)
 
-<center>[Crew]({{ site.baseurl }}/autori/)</center>
+<center><a href="{{ site.baseurl }}/autori/">Crew</a></center>
 
 Tra retrogame e nostalgia, semi di Kupò a raffica con un occhio al futuro e l'altro al panino con la mortazza della porta sud.
 
