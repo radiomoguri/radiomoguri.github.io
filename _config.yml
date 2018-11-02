@@ -1,11 +1,11 @@
 # Configurazione del Sito
 title: "Radio Moguri"
-description: "Video Game Music Radio - retrogame e kupò all'italiana <3"
-url:  https://radiomoguri.github.io
+description: "Video Game Music Radio - retrogame, musica, sviluppo videogiochi e kupò all'italiana"
+url:  "https://radiomoguri.github.io"
 baseurl: ""
-lang: it_IT
-email: radiomoguri@gmail.com
-author: Andrea Corinti
+lang: "it"
+author: AndreaCorinti
+logo: "/assets/immagini/logomoguri.png" # idealmente, 150x150px
 
 # Collection / Autori
 
@@ -29,9 +29,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-# Logo
-logo: "/assets/immagini/logomoguri.png" # idealmente, 150x150px
 
 # Build settings
 permalink: :title/
