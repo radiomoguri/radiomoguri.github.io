@@ -2,9 +2,10 @@
 title: Radio Moguri
 email: radiomoguri@gmail.com
 author: Andrea Corinti
-description: Game Kupò Radio
-url:  #
+description: Video Game Music Radio
+url:  https://radiomoguri.github.io
 baseurl: ""
+lang: it_IT
 
 # Collection / Autori
 
@@ -38,14 +39,30 @@ sass:
   sass_dir: _sass
 
 # Social
+
+social:
+  name: Radio Moguri
+  links:
+    - https://twitter.com/radiomoguri
+    - https://www.facebook.com/radiomoguri
+
 show_social_icons: true
-facebook: radiomoguri
+
+facebook:
+  publisher: radiomoguri
+  admins: galbadia
+
+twitter:
+  username: radiomoguri
+
 instagram: radiomoguri
-twitter: radiomogurihub
 
 # Plugin
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
 
 # Paginate
 paginate: 3 # imposta il numero di news visibili nella home

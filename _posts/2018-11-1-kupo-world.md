@@ -17,4 +17,4 @@ In ogni caso restiamo saldamente ancorati alla [nostra pagina facebook](https://
 
 PS:
 
-Nel caso non si fosse capito, da queste parti vige un certo amore per Final Fantasy VI!
+Nel caso non si fosse capito, da queste parti vige un certo amore per Final Fantasy VI! ❤
