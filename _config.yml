@@ -1,11 +1,11 @@
 # Configurazione del Sito
-title: Radio Moguri
-email: radiomoguri@gmail.com
-author: Andrea Corinti
-description: Video Game Music Radio - retrogame e kupò all'italiana <3
+title: "Radio Moguri"
+description: "Video Game Music Radio - retrogame e kupò all'italiana <3"
 url:  https://radiomoguri.github.io
 baseurl: ""
 lang: it_IT
+email: radiomoguri@gmail.com
+author: Andrea Corinti
 
 # Collection / Autori
 
