@@ -4,7 +4,7 @@ layout: pagina
 permalink: /game-dev-italia/
 ---
 
-![gamedev](https://media.giphy.com/media/ZUzPMhdAKrndS/giphy.gif)
+![gamedev](/assets/immagini/gamedev.gif)
 
 Questo spazio è un angolo dedicato **a tutto il panorama della produzione di videogiochi in Italia!**
 

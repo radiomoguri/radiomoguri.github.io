@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Kupò World!
-immagine: https://pre00.deviantart.net/d76b/th/pre/i/2014/106/f/f/narshe_by_zano-d7djwuj.jpg
+immagine: /assets/immagini/narshe_by_zano.jpg
 summary: Il nuovo sito di Radio Moguri è online!
 author: mog
 categories: [Radio Moguri News]
 ---
+
+<small>Artwork: Narshe by [Zano](https://www.deviantart.com/zano/art/Narshe-446027275)</small>
 
 Kupò!
 
