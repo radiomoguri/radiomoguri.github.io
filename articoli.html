@@ -8,7 +8,7 @@ collection: articoli
 <div class="container">
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  <h3>{{ category_name }}</h3>
+  <h4 class="text-white">{{ category_name }}</h4>
   <div class="row">
     <!--colonne categoria-->
     {% for post in site.categories[category_name] %}
@@ -16,7 +16,7 @@ collection: articoli
 
       <!--carta per post-->
       <div class="card bg-primary">
-        <h2 class="card-title text-center">{{ post.title }}</h2>
+        <h2 class="card-title text-center text-white">{{ post.title }}</h2>
         <a href="{{ post.url | prepend: site.baseurl }}"><img class="post-thumb card-img-top autore-avatar-link" src="{{ post.immagine }}" alt="{{ post.title }}"></a>
         <div class="card-body">
           <p class="card-text">{{ post.summary }}</p>

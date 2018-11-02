@@ -6,4 +6,4 @@ permalink: /video-game-music/
 
 ![FFVI](/assets/immagini/ffvi-opera.gif)
 
-![wip](http://www.thegorgonlab.com/assets/bundles/images/under-construction.gif)
+![wip](/assets/immagini/wip.gif)
