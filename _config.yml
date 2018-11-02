@@ -47,7 +47,7 @@ show_social_icons: true
 
 facebook:
   publisher: radiomoguri
-  admins: galbadia
+  admins: galbadia, logos.vargas
 
 twitter:
   username: radiomoguri
