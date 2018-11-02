@@ -55,7 +55,7 @@
         <!--assegno il baseurl con "domain", escludendo i link esterni e a mailto-->
         
         <li class="nav-item">
-          <a class="nav-link" href="https://m.me/{{ site.facebook }}">Contatti</a>
+          <a class="nav-link" href="https://m.me/radiomoguri">Contatti</a>
         </li>
         
       </ul>
@@ -63,8 +63,14 @@
   </div>
 </nav>
 
-  <div class="container">
-  <h1 class="text-primary text-center">Articoli</h1>
+  <div id="post" class="container pt-3">
+  <div class="row">
+    <div class="col">
+      <div class="text-center">
+      <h1>Articoli</h1>
+    </div>
+      <article>
+        <div class="container">
   
   
   <h3>Radio Moguri News</h3>
@@ -89,6 +95,20 @@
   <!--fine colonne cat-->
 </div>
 
+</div>
+
+      </article>
+        <!--<div id="Facebook" class="tabcontent">
+<div class="fb-comments" data-href="http://localhost:4000/articoli/" data-width="auto" data-numposts="5"></div>
+</div>-->
+
+<div id="Facebook" class="container d-flex justify-content-center">
+<div class="fb-comments" data-href="http://localhost:4000/articoli/" data-numposts="5" data-widht="100%" data-colorscheme="dark"></div>
+</div>
+
+        <hr  />
+    </div>
+  </div>
 </div>
 
   <footer class="py-4 footer">

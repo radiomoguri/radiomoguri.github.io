@@ -10,6 +10,6 @@ Questo spazio è un angolo dedicato **a tutto il panorama della produzione di vi
 
 E con tutto, intendiamo proprio _tutto_:
 
-Dal vecchio gioco della _Simulmondo_ al vecchio esperimento casalingo con **RPG Maker**, passando con agilità tra il professionismo e l'amatoriale meglio di _pornhub_!
+Dal vecchio gioco della _Simulmondo_ all'esperimento casalingo con **RPG Maker**, passando con agilità tra il professionismo e l'amatoriale meglio di _pornhub_!
 
 ![wip](http://www.thegorgonlab.com/assets/bundles/images/under-construction.gif)

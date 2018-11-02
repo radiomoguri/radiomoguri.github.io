@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: pagina
 title: Articoli
 permalink: /articoli/
 collection: articoli
 ---
 
 <div class="container">
-  <h1 class="text-primary text-center">Articoli</h1>
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
   <h3>{{ category_name }}</h3>
