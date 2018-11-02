@@ -11,4 +11,4 @@ nav:
 - title: About
   url: /about/
 - title: Contatti
-  url: https://m.me/{{ site.facebook }}
+  url: https://m.me/radiomoguri
