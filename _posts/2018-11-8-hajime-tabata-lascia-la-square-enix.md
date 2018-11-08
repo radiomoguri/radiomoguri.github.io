@@ -2,7 +2,7 @@
 layout: post
 title: Hajime Tabata lascia Square Enix
 immagine: https://assets.rpgsite.net/images/images/000/071/574/article/hajime-tabata-1.jpg
-summary: Tabata il director di Final Fantasy XV, lascia la società di Nomura & Co
+summary: Tabata, il director di Final Fantasy XV, lascia la società di Nomura & Co
 author: xab
 categories: [Final Fantasy]
 ---
