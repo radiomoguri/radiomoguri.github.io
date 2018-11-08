@@ -11,29 +11,32 @@ Designato come _"uomo della provvidenza"_ per portare a casa il controverso, pro
 
 ## Il messaggio di Tabata
 
-Ciao, qui è Tabata.
+<div class="citazione">
 
-Sono passati quasi due anni dall'uscita di FFXV. Onestamente, credo che se siamo stati in grado di arrivare così lontano è stato grazie a tutti voi fan più leali.
+<p>" Ciao, qui è Tabata.</p>
 
-Vi ringrazio dal profondo del mio cuore.
+<p>Sono passati quasi due anni dall'uscita di FFXV. Onestamente, credo che se siamo stati in grado di arrivare così lontano è stato grazie a tutti voi fan più leali.</p>
 
-Oggi, ho un annuncio personale da fare a tutti voi.
+<p>Vi ringrazio dal profondo del mio cuore.</p>
 
-Io, Hajime Tabata, ho rassegnato le mie dimissioni da Luminous Productions e Square Enix Group il 31 Ottobre 2018.
+<p>Oggi, ho un annuncio personale da fare a tutti voi.</p>
 
-Ho potuto accumulare moltissima esperienza durante il mio periodo alla Square Enix. Ciascun titolo a cui ho collaborato significa molto per me. Tuttavia, FFXV spicca in quel gruppo essendo stato un progetto speciale per me, dove ho dedicato tutto me stesso.
+<p>Io, Hajime Tabata, ho rassegnato le mie dimissioni da Luminous Productions e Square Enix Group il 31 Ottobre 2018.</p>
 
-Per questo, ho deciso di cogliere quest'opportunità per annunciare ufficialmente a tutti i fan che hanno supportato il titolo in giro per il mondo il mio addio a FFXV.
+<p>Ho potuto accumulare moltissima esperienza durante il mio periodo alla Square Enix. Ciascun titolo a cui ho collaborato significa molto per me. Tuttavia, FFXV spicca in quel gruppo essendo stato un progetto speciale per me, dove ho dedicato tutto me stesso.</p>
 
-Riguardo i miei propositi per il futuro, ho un progetto che vorrei concretizzare come la mia prossima sfida dopo FFXV. Per questo motivo, ho deciso di lasciare la mia posizione corrente e creare la mia attività in proprio per raggiungere il mio obbiettivo.
+<p>Per questo, ho deciso di cogliere quest'opportunità per annunciare ufficialmente a tutti i fan che hanno supportato il titolo in giro per il mondo il mio addio a FFXV.</p>
 
-Con la produzione di Episode Ardyn in proseguimento e la Luminous Productions a lavoro su nuovi progetti, ho pensato fosse tempo di passare il testimone alla prossima generazione di talentuosi colleghi credendo che faranno cose incredibili.
+<p>Riguardo i miei propositi per il futuro, ho un progetto che vorrei concretizzare come la mia prossima sfida dopo FFXV. Per questo motivo, ho deciso di lasciare la mia posizione corrente e creare la mia attività in proprio per raggiungere il mio obbiettivo.</p>
 
-Da oggi in poi, tiferò e supporterò Square Enix e Luminous Productions assieme a voi fan.
+<p>Con la produzione di Episode Ardyn in proseguimento e la Luminous Productions a lavoro su nuovi progetti, ho pensato fosse tempo di passare il testimone alla prossima generazione di talentuosi colleghi credendo che faranno cose incredibili.</p>
 
-Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che hanno anche supportato me personalmente.
+<p>Da oggi in poi, tiferò e supporterò Square Enix e Luminous Productions assieme a voi fan.</p>
 
-<footer class="blockquote-footer">Hajime Tabata</footer>
+<p>Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che hanno anche supportato me personalmente. "</p>
+</div>
+
+Hajime Tabata
 
 ([fonte](https://www.rpgsite.net/news/7951-final-fantasy-xv-director-hajime-tabata-has-left-square-enix))
 
@@ -43,9 +46,11 @@ Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che ha
 
 Curiosamente, buona parte del discorso di Tabata ricorda le parole dello storico creatore di Final Fantasy **Hironobu Sakaguchi** spese nei suoi riguardi:
 
-Ho cenato con Tabata-san 1 qualcosa come tre volte. Voleva un’intervista come questa, per parlare della creazione di Final Fantasy, non essendo presente a suo tempo. Quindi, avendo ereditato il testimone della serie, si chiedeva con chi fosse meglio parlare della genesi della stessa ed è arrivato a me. Abbiamo cenato parecchie volte e parlando con lui, gli ho detto che mi piaceva il suo modo di ragionare. Stava facendo del suo meglio per rendere Final Fantasy XV qualcosa d’impatto. Alla fine di una di queste cene, mi ha chiesto se sarei potuto salire su un palco e dire alla gente che il suo team era all’altezza del compito. Pensava che la cosa avrebbe potuto galvanizzare il suo team di sviluppo.
+<div class="citazione">
+<p>" Ho cenato con Tabata-san 1 qualcosa come tre volte. Voleva un’intervista come questa, per parlare della creazione di Final Fantasy, non essendo presente a suo tempo. Quindi, avendo ereditato il testimone della serie, si chiedeva con chi fosse meglio parlare della genesi della stessa ed è arrivato a me. Abbiamo cenato parecchie volte e parlando con lui, gli ho detto che mi piaceva il suo modo di ragionare. Stava facendo del suo meglio per rendere Final Fantasy XV qualcosa d’impatto. Alla fine di una di queste cene, mi ha chiesto se sarei potuto salire su un palco e dire alla gente che il suo team era all’altezza del compito. Pensava che la cosa avrebbe potuto galvanizzare il suo team di sviluppo. "</p>
 
-Personalmente, come creatore, preferirei che gli sviluppatori concentrassero le loro energie nel creare qualcosa di nuovo. Per esempio con Final Fantasy XV Tabata ha creato una storia, dei personaggi ed un mondo interamente nuovi. Penso sia grandioso.
+<p>" Personalmente, come creatore, preferirei che gli sviluppatori concentrassero le loro energie nel creare qualcosa di nuovo. Per esempio con Final Fantasy XV Tabata ha creato una storia, dei personaggi ed un mondo interamente nuovi. Penso sia grandioso. "</p>
+</div>
 
 ([fonte](https://www.xabacadabra.com/2017/intervista-hironobu-sakaguchi/))
 

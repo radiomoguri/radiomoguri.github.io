@@ -25,6 +25,9 @@ body {
   max-width: 700px;
   margin: 0 auto; }
 
+.citazione {
+  font-style: italic; }
+
 .blockquote-footer {
   color: #d4d4dc !important; }
 
