@@ -11,7 +11,7 @@ Designato come _"uomo della provvidenza"_ per portare a casa il controverso, pro
 
 ## Il messaggio di Tabata
 
-<q>A tutti quelli che stanno guardando la trasmissione,
+<blockquote>A tutti quelli che stanno guardando la trasmissione,
 
 Ciao, qui è Tabata.
 
@@ -35,7 +35,7 @@ Da oggi in poi, tiferò e supporterò Square Enix e Luminous Productions assieme
 
 Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che hanno anche supportato me personalmente.
 
-Hajime Tabata</q>
+Hajime Tabata</blockquote>
 
 ([fonte](https://www.rpgsite.net/news/7951-final-fantasy-xv-director-hajime-tabata-has-left-square-enix))
 
