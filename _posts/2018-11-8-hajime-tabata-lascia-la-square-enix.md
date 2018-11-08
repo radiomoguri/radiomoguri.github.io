@@ -11,7 +11,7 @@ Designato come _"uomo della provvidenza"_ per portare a casa il controverso, pro
 
 ## Il messaggio di Tabata
 
-A tutti quelli che stanno guardando la trasmissione,
+<q>A tutti quelli che stanno guardando la trasmissione,
 
 Ciao, qui è Tabata.
 
@@ -35,7 +35,7 @@ Da oggi in poi, tiferò e supporterò Square Enix e Luminous Productions assieme
 
 Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che hanno anche supportato me personalmente.
 
-Hajime Tabata
+Hajime Tabata</q>
 
 ([fonte](https://www.rpgsite.net/news/7951-final-fantasy-xv-director-hajime-tabata-has-left-square-enix))
 
@@ -45,9 +45,9 @@ Hajime Tabata
 
 Curiosamente, buona parte del discorso di Tabata ricorda le parole dello storico creatore di Final Fantasy **Hironobu Sakaguchi** spese nei suoi riguardi:
 
-> Ho cenato con Tabata-san 1 qualcosa come tre volte. Voleva un’intervista come questa, per parlare della creazione di Final Fantasy, non essendo presente a suo tempo. Quindi, avendo ereditato il testimone della serie, si chiedeva con chi fosse meglio parlare della genesi della stessa ed è arrivato a me. Abbiamo cenato parecchie volte e parlando con lui, gli ho detto che mi piaceva il suo modo di ragionare. Stava facendo del suo meglio per rendere Final Fantasy XV qualcosa d’impatto. Alla fine di una di queste cene, mi ha chiesto se sarei potuto salire su un palco e dire alla gente che il suo team era all’altezza del compito. Pensava che la cosa avrebbe potuto galvanizzare il suo team di sviluppo.
+Ho cenato con Tabata-san 1 qualcosa come tre volte. Voleva un’intervista come questa, per parlare della creazione di Final Fantasy, non essendo presente a suo tempo. Quindi, avendo ereditato il testimone della serie, si chiedeva con chi fosse meglio parlare della genesi della stessa ed è arrivato a me. Abbiamo cenato parecchie volte e parlando con lui, gli ho detto che mi piaceva il suo modo di ragionare. Stava facendo del suo meglio per rendere Final Fantasy XV qualcosa d’impatto. Alla fine di una di queste cene, mi ha chiesto se sarei potuto salire su un palco e dire alla gente che il suo team era all’altezza del compito. Pensava che la cosa avrebbe potuto galvanizzare il suo team di sviluppo.
 
-> Personalmente, come creatore, preferirei che gli sviluppatori concentrassero le loro energie nel creare qualcosa di nuovo. Per esempio con Final Fantasy XV Tabata ha creato una storia, dei personaggi ed un mondo interamente nuovi. Penso sia grandioso.
+Personalmente, come creatore, preferirei che gli sviluppatori concentrassero le loro energie nel creare qualcosa di nuovo. Per esempio con Final Fantasy XV Tabata ha creato una storia, dei personaggi ed un mondo interamente nuovi. Penso sia grandioso.
 
 ([fonte](https://www.xabacadabra.com/2017/intervista-hironobu-sakaguchi/))
 
