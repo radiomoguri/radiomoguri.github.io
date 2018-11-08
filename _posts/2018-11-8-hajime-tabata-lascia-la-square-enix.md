@@ -67,11 +67,11 @@ Qui non ci occupiamo di news e non abbiamo intenzione di cambiare linea, ma il t
 
 ![kingdom-hearts](https://www.nerdgate.it/wp-content/uploads/2018/11/kingdom-hearts-iii-principal_2-1620x800.jpg)
 
-La Square Enix ora come ora certamente **aspetta le uova d'oro dalla gallina Kingdom Hearts III** ma successivamente si avvierà verso un sentiero piuttosto incerto, certamente segnato dal **remake di Final Fantasy VII** (che resta a sua volta una grossa incognita)
+La Square Enix ora come ora certamente **aspetta le uova d'oro dalla gallina Kingdom Hearts III** ma successivamente si avvierà verso un sentiero piuttosto incerto, verosimilmente segnato dal **remake di Final Fantasy VII** (che resta a sua volta una grossa incognita) ma pochi elementi "concreti".
 
 ![final-fantasy-vii-remake](http://media.comicbook.com/2018/01/final-fantasy-7-remake-cloud-and-wedge-1076631.jpeg)
 
-Ma dei prossimi **Final Fantasy**?
+E dei prossimi **Final Fantasy**?
 
 Che ne sarà?
 
