@@ -52,7 +52,7 @@ Curiosamente, buona parte del discorso di Tabata ricorda le parole dello storico
 <p>" Personalmente, come creatore, preferirei che gli sviluppatori concentrassero le loro energie nel creare qualcosa di nuovo. Per esempio con Final Fantasy XV Tabata ha creato una storia, dei personaggi ed un mondo interamente nuovi. Penso sia grandioso. "</p>
 </div>
 
-([fonte](https://www.xabacadabra.com/2017/intervista-hironobu-sakaguchi/))
+([fonte](/intervista-hironobu-sakaguchi/))
 
 ## La cancellazione di The Dawn of the Future
 
