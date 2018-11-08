@@ -23,7 +23,7 @@ Designato come _"uomo della provvidenza"_ per portare a casa il controverso, pro
 
 <p>Io, Hajime Tabata, ho rassegnato le mie dimissioni da Luminous Productions e Square Enix Group il 31 Ottobre 2018.</p>
 
-<p>Ho potuto accumulare moltissima esperienza durante il mio periodo alla Square Enix. Ciascun titolo a cui ho collaborato significa molto per me. Tuttavia, FFXV spicca in quel gruppo essendo stato un progetto speciale per me, dove ho dedicato tutto me stesso.</p>
+<p>Ho potuto accumulare moltissima esperienza durante il mio periodo alla Square Enix. Ciascun titolo a cui ho collaborato significa molto per me. Tuttavia, FFXV spicca in quel gruppo essendo stato un progetto speciale per me, a cui ho dedicato tutto me stesso.</p>
 
 <p>Per questo, ho deciso di cogliere quest'opportunità per annunciare ufficialmente a tutti i fan che hanno supportato il titolo in giro per il mondo il mio addio a FFXV.</p>
 
