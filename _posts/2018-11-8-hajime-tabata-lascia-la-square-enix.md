@@ -11,9 +11,8 @@ Designato come _"uomo della provvidenza"_ per portare a casa il controverso, pro
 
 ## Il messaggio di Tabata
 
-<i>A tutti quelli che stanno guardando la trasmissione,
-
-Ciao, qui è Tabata.
+<blockquote class="blockquote">
+<p class="mb-0">Ciao, qui è Tabata.
 
 Sono passati quasi due anni dall'uscita di FFXV. Onestamente, credo che se siamo stati in grado di arrivare così lontano è stato grazie a tutti voi fan più leali.
 
@@ -33,9 +32,12 @@ Con la produzione di Episode Ardyn in proseguimento e la Luminous Productions a 
 
 Da oggi in poi, tiferò e supporterò Square Enix e Luminous Productions assieme a voi fan.
 
-Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che hanno anche supportato me personalmente.
+Vorrei ringraziare tutti quelli che continuano a supportare FFXV e quelli che hanno anche supportato me personalmente.</p>
 
-Hajime Tabata</i>
+<footer class="blockquote-footer">Hajime Tabata</footer>
+
+
+</blockquote>
 
 ([fonte](https://www.rpgsite.net/news/7951-final-fantasy-xv-director-hajime-tabata-has-left-square-enix))
 
